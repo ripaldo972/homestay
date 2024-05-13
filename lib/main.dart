@@ -16,8 +16,8 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         body:
             // DetailProduk(),
-            // HomeScreen(),
-            Menu(),
+            HomeScreen(),
+        // Menu(),
       ),
     );
   }
