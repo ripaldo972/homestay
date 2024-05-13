@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-
+import 'package:flutter_app/pages/menu.dart';
 import 'package:flutter_app/pages/detail_produk.dart';
+import 'package:flutter_app/pages/home_screen.dart';
 
 void main() => runApp(const MyApp());
 
@@ -13,9 +14,10 @@ class MyApp extends StatelessWidget {
       title: 'Flutter App',
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        body: DetailProduk(),
-        // body: HomeScreen(),
-        // body: Menu(),
+        body:
+            // DetailProduk(),
+            // HomeScreen(),
+            Menu(),
       ),
     );
   }
