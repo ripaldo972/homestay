@@ -253,7 +253,6 @@ class Menu extends StatelessWidget {
                 ),
               ),
             ),
-            Container(),
             Container(
               margin: EdgeInsets.fromLTRB(1, 0, 1, 34),
               child: Align(

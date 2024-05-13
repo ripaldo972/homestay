@@ -491,6 +491,7 @@ class HomeScreen extends StatelessWidget {
                                                 "assets/images/webaliser_tptxzd_9_moo_unsplash_1.jpeg"),
                                           ),
                                         ),
+                                        Container(),
                                         Container(
                                           padding: EdgeInsets.fromLTRB(
                                               20, 20, 16, 16),
