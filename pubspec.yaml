@@ -1,0 +1,61 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/vectors/vector_16_x2.svg
+  - assets/vectors/vector_3_x2.svg
+  - assets/vectors/vector_6_x2.svg
+  - assets/vectors/vector_9_x2.svg
+  - assets/vectors/ic_message_x2.svg
+  - assets/vectors/vector_7_x2.svg
+  - assets/vectors/ic_notification_x2.svg
+  - assets/vectors/vector_17_x2.svg
+  - assets/vectors/vector_x2.svg
+  - assets/images/jason_briscoe_uv_81_e_0_oxxwq_unsplash_1.jpeg
+  - assets/images/sidekix_media_eo_tucbv_9_jrs_unsplash_1.jpeg
+  - assets/images/maps.png
+  - assets/images/cat_han_apd_1_ynuyp_0_wunsplash_1.jpeg
+  - assets/images/jurica_koletic_7_yvzyze_itc_8_unsplash_adobespark_1.png
+  - assets/images/webaliser_tptxzd_9_moo_unsplash_1.jpeg
+  - assets/images/jorge_de_jorge_nvq_yk_dpe_0_rw_unsplash_1.jpeg
+  - assets/vectors/vector_14_x2.svg
+  - assets/vectors/vector_4_x2.svg
+  - assets/vectors/vector_5_x2.svg
+  - assets/vectors/vector_18_x2.svg
+  - assets/vectors/group_12_x2.svg
+  - assets/vectors/vector_11_x2.svg
+  - assets/images/pexels_expect_best_3237801.jpeg
+  - assets/images/ksenia_balandina_rcf_5_kswb_7_ms_unsplash_1.jpeg
+  - assets/images/digital_marketing_agency_ntwrk_g_39_p_1_kdjv_sy_unsplash_1.jpeg
+  - assets/images/webaliser_tptxzd_9_moo_unsplash_1.jpeg
+  - assets/vectors/vector_12_x2.svg
+  - assets/vectors/group_11_x2.svg
+  - assets/vectors/vector_8_x2.svg
+  - assets/vectors/vector_10_x2.svg
+  - assets/vectors/group_1_x2.svg
+  - assets/vectors/ic_notification_1_x2.svg
+  - assets/vectors/vector_2_x2.svg
+  - assets/vectors/vector_13_x2.svg
+  - assets/vectors/vector_15_x2.svg
+  - assets/vectors/vector_1_x2.svg
+
